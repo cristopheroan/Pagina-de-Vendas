@@ -1,4 +1,4 @@
-package com.venda.pagina_vendas.config;
+package com.venda.paginavendas.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

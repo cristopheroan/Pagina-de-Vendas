@@ -1,4 +1,4 @@
-package com.venda.pagina_vendas.controller;
+package com.venda.paginavendas.controller;
 
 import com.venda.paginavendas.model.Usuario;
 import com.venda.paginavendas.service.UsuarioService;

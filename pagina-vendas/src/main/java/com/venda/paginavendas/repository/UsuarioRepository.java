@@ -1,4 +1,4 @@
-package com.venda.pagina_vendas.repository;
+package com.venda.paginavendas.repository;
 
 import com.venda.paginavendas.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;

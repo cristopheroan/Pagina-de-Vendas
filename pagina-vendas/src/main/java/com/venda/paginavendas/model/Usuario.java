@@ -1,4 +1,4 @@
-package com.venda.pagina_vendas.model;
+package com.venda.paginavendas.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;

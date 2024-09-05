@@ -1,4 +1,4 @@
-package com.venda.pagina_vendas;
+package com.venda.paginavendas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
